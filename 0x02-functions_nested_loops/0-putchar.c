@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "main.h"
 
-/*
+/**
  * main - Write a program that prints _putchar
  * Return: 0
  */
